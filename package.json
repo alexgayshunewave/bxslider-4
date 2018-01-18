@@ -23,7 +23,7 @@
     "gulp-uglify": "^2.0.1"
   },
   "engines": {
-    "node": ">=8.4.0"
+    "node": ">=7.10.0"
   },
   "keywords": [
     "responsive",
